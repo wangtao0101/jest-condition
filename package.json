@@ -1,8 +1,8 @@
 {
   "name": "jest-condition",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
-  "main": "lib/src/index.js",
+  "main": "lib/index.js",
   "typings": "typings/index.d.ts",
   "scripts": {
     "build": "npm run clean && tsc -p tsconfig.release.json",
